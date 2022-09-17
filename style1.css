@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+div{
+    height: 20rem;
+    width: 22rem;
+    border: 1px solid black;
+    margin: 5% ;
+    padding: 2%;
+    background-color: rgb(39, 72, 72);
+    
+}
+#id1{
+    padding: 5% 3%;
+    color: white;
+    background-color: rgb(0, 187, 255);
+    margin: 6%;
+    width: 100%;
+}
+#id2{
+    padding: 5% 3%;
+    color: white;
+    background-color: rgb(0, 187, 255);
+    margin: 2%;
+    width: 100%;
+}
+#id3{
+    padding: 4% 35%;
+    color: white;
+    background-color: rgb(0, 187, 255);
+    margin: 3%;
+}
+table{
+    margin-top: 5%;
+    
+}
+tr{
+    margin: rem;
+}
